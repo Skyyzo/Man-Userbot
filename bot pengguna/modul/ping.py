@@ -18,7 +18,7 @@ from userbot import CMD_HELP, StartTime
 from userbot.events import register
 from userbot.utils import edit_or_reply, humanbytes, man_cmd
 
-absen = [
+Hi = [
     "**Hadir bang** 😁",
     "**Hadir kak** 😉",
     "**Hadir dong** 😁",
